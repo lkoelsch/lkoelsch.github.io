@@ -12,6 +12,10 @@ Hi!
 
 I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of South Florida and the Center for Cryptographic Research in Tampa. My work is on the interface between math and cryptography as well as coding theory. In particular, I have been recently working on semifields, rank-metric codes and non-linear Boolean functions. Generally, I like to combine ideas from algebra, combinatorics and number theory to solve specific problems that are related to applications in coding theory or cryptography.
 
+CV
+====
+[Download here](https://academicpages.github.io/files/cv.pdf). Last updated: August 2022.
+
 News
 ======
 (08-09-22) Check out my new preprint on [c-differential uniformity of Boolean functions and their relation to differential attacks on block ciphers](https://arxiv.org/abs/2208.03884) (joint work with Daniele Bartoli and Giacomo Micheli)
