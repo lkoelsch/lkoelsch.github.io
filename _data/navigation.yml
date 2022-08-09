@@ -4,7 +4,7 @@ main:
  #   url: /publications/
 
   -title: "Publications"
-    url: /pub/
+    url: /posts/
     
    
   - title: "Talks"
