@@ -4,8 +4,8 @@ main:
   - title: "Publications and Preprints"
     url: /pub/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Talks and Slides"
+    url: /talk/    
 
 #  - title: "Portfolio"
 #    url: /portfolio/
