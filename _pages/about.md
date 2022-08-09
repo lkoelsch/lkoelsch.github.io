@@ -14,7 +14,7 @@ I do math with applications to cryptography and coding theory. Recently, I have 
 
 Contact
 ===
-You can contact me via email: lukas (dot) koelsch (dot) math (at) gmail (dot) com, or koelsch (at) usf (dot) eu.
+You can contact me via email: lukas (dot) koelsch (dot) math (at) gmail (dot) com, or koelsch (at) usf (dot) edu.
 
 CV
 ====
