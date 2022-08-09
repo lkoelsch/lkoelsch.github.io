@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lukas Kölsch"
+title: "Hi!"
 excerpt: "Lukas Kölsch"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 
+I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of South Florida and the Center for Cryptographic Research in Tampa. Previously, I completed my PhD at the University of Rostock in Germany.
 
-I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of South Florida and the Center for Cryptographic Research in Tampa. My work is on the interface between math and cryptography as well as coding theory. Recently, I have been working on semifields, rank-metric codes and non-linear Boolean functions like APN functions. Generally, I like to combine ideas from algebra, combinatorics and number theory to solve specific problems that are related to applications in coding theory or cryptography.
+My work is on the interface between math and cryptography as well as coding theory. Recently, I have been working on semifields, rank-metric codes and non-linear Boolean functions like APN functions. Generally, I like to combine ideas from algebra, combinatorics and number theory to solve specific problems that are related to applications in coding theory or cryptography.
 
 CV
 ====
