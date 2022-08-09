@@ -14,7 +14,7 @@ I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of Sout
 
 News
 ======
-(08-09-22) Check out my new preprint on [c-differential uniformity of Boolean functions and their relation to differential attacks on block ciphers](http://lkoelsch.github.io/files/cdiff.pdf) (joint work with Daniele Bartoli and Giacomo Micheli)
+(08-09-22) Check out my new preprint on [c-differential uniformity of Boolean functions and their relation to differential attacks on block ciphers](https://arxiv.org/abs/2208.03884) (joint work with Daniele Bartoli and Giacomo Micheli)
 
 (07-27-22) Check out my new preprint on [counting the Taniguchi semifields](https://arxiv.org/abs/2207.13497). Here, we give a new best lower bound on the total number of semifields of odd order. (joint work with Faruk Göloglu)
 
