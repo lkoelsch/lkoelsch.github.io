@@ -28,7 +28,7 @@ List of Preprints and Publications
 
 \[4\] Kölsch, L.: On the inverses of Kasami and Bracken-Leander exponents, *Designs, Codes, Cryptography* 88, 2597-2621 (2020), [Link](https://doi.org/10.1007/s10623-020-00804-0)
 
-\[3\] Gölglu, F., Kölsch, L., Kyureghyan, G., Perrin, L.: On subspaces of Kloosterman zeros and permutations of the form L_1(x^{-1})+L_2(x), In: Bajard J.C., Topuzoglu A. (eds) *Arithmetic of Finite Fields. WAIFI 2020. Lecture Notes in Computer Science*, vol 12542. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-68869-1\_12)
+\[3\] Göloglu, F., Kölsch, L., Kyureghyan, G., Perrin, L.: On subspaces of Kloosterman zeros and permutations of the form L_1(x^{-1})+L_2(x), In: Bajard J.C., Topuzoglu A. (eds) *Arithmetic of Finite Fields. WAIFI 2020. Lecture Notes in Computer Science*, vol 12542. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-68869-1\_12)
 
 \[2\] Canteaut, A., Kölsch, L., Li, C., Li, C., Li, K., Qu, L., Wiemer, F.: Autocorrelations of Vectorial Boolean Functions. In: Longa P., Ràfols C. (eds) *Progress in Cryptology – LATINCRYPT 2021. LATINCRYPT 2021. Lecture Notes in Computer Science*, vol 12912. [Link](https://doi.org/10.1007/978-3-030-88238-9\_12)
 > merged article based on: Canteaut, A., Kölsch, L., Wiemer, F., Observations on the DLCT and Absolute Indicators, [Preprint](https://eprint.iacr.org/2019/848)
