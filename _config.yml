@@ -61,7 +61,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Lukas Kölsch"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Postdoc in Math/Crypto"
   location         : "University of South Florida, Tampa, USA"
   employer         :
