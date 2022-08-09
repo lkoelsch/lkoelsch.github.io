@@ -6,7 +6,7 @@ redirect_from:
   - /talk.html
 ---
 
-Talks
+Some Talks with slides (I lost the slides of most talks - sorry!)
 =======
 09/12/2022: Techniques for proving equivalences of Boolean functions. *7th international Workshop on Boolean functions and their applications* (Invited Talk)
 
