@@ -1,5 +1,5 @@
 ---
-permalink: /pub
+permalink: /pub/
 title: "Lukas Kölsch"
 excerpt: "Lukas Kölsch"
 author_profile: true
