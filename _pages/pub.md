@@ -1,3 +1,12 @@
+---
+permalink: /pub
+title: "Lukas Kölsch"
+excerpt: "Lukas Kölsch"
+author_profile: true
+redirect_from: 
+  - /pub.html
+---
+
 You can find most of my articles on [Google Scholar](https://scholar.google.com/citations?user=yJu5R8kAAAAJ&hl=en&oi=ao) and [arXiv](https://arxiv.org/search/?query=lukas+k%C3%B6lsch&searchtype=all). 
 
 List of Preprints and Publications
