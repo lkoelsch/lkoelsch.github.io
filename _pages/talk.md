@@ -12,9 +12,9 @@ Some Talks with slides (I lost the slides of most talks - sorry!)
 
 08/29/2022: Bivariate semifields and their isotopies. *Finite Geometries 2022, Irsee*. (Invitation only conference)
 
-03/10/2022: Counting the number of non-isotopic semifields inside some known semifield families, *Workshop for Coding and Cryptography 2022, Rostock, Germany*. (Refereed Talk) [Slides](lkoelsch.github.io/files/slides_wcc.pdf)
+03/10/2022: Counting the number of non-isotopic semifields inside some known semifield families, *Workshop for Coding and Cryptography 2022, Rostock, Germany*. (Refereed Talk) [Slides](https://lkoelsch.github.io/files/slides_wcc.pdf)
 
-08/17/2021: Equivalences of S-Boxes, *SIAM conference on Applied Algebraic Geometry (SIAM AG 21), Minisymposium on Algebraic Methods in Cryptography*. (Invited Talk). [Slides](lkoelsch.github.io/files/slides_siam.pdf)
+08/17/2021: Equivalences of S-Boxes, *SIAM conference on Applied Algebraic Geometry (SIAM AG 21), Minisymposium on Algebraic Methods in Cryptography*. (Invited Talk). [Slides](https://lkoelsch.github.io/files/slides_siam.pdf)
 
 07/08/2020: On subspaces of Kloosterman zeros and permutations of the form L_1(x^{-1})+L_2(x), *International Workshop on the Arithmetic of Finite Fields (WAIFI) 2020, Rennes, France*. (Refereed Talk)}
 
