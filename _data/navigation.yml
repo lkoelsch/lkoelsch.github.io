@@ -1,8 +1,12 @@
 # main links links
 main:
-  - title: "Publications and Preprints"
-    url: /publications/
+#  - title: "Publications"
+ #   url: /publications/
 
+  -title: "Publications"
+    url: /pub/
+    
+   
   - title: "Talks"
     url: /talks/    
 
