@@ -22,4 +22,4 @@ News
 
 Upcoming Talks
 =====
-I will be at the Finite Geometries Conference in Irsee, Germany, in August 2022 and also at the Boolean Functions conference in Bergen, Norway, in September 2022. For details, see the [Talks section](https://lkoelsch.github.com/talks)
+I will be at the Finite Geometries Conference in Irsee, Germany, in August 2022 and also at the Boolean Functions conference in Bergen, Norway, in September 2022. For details, see the [Talks section](https://lkoelsch.github.io/talks/).
