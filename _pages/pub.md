@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
-  - /pub.html
+  - /publications.html
 ---
 
 ## Locations of key files/directories
