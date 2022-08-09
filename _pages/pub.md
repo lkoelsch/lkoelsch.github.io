@@ -38,4 +38,4 @@ List of Preprints and Publications
 
 My Dissertation
 ====
-If you want (for some reason) have a look at my dissertation, it can be found [here](http://academicpages.github.io/files/main.pdf).
+If you want (for some reason) have a look at my dissertation, it can be found [here](http://lkoelsch.github.io/files/main.pdf).
