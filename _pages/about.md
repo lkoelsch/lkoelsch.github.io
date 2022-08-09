@@ -14,7 +14,7 @@ I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of Sout
 
 CV
 ====
-[Download here](https://academicpages.github.io/files/cv.pdf). Last updated: August 2022.
+[Download here](https://lkoelsch.github.io/files/cv.pdf). Last updated: August 2022.
 
 News
 ======
