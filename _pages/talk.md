@@ -1,13 +1,11 @@
 ---
 permalink: /talk/
-title: "Talks"
+title: "Some Talks with slides (I lost the slides of most talks - sorry!)"
 author_profile: true
 redirect_from: 
   - /talk.html
 ---
 
-Some Talks with slides (I lost the slides of most talks - sorry!)
-=======
 09/12/2022: Techniques for proving equivalences of Boolean functions. *7th international Workshop on Boolean functions and their applications* (Invited Talk)
 
 08/29/2022: Bivariate semifields and their isotopies. *Finite Geometries 2022, Irsee*. (Invitation only conference)
