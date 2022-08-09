@@ -64,10 +64,10 @@ author:
   avatar           : "profile_real.png"
   bio              : "Postdoc in Math/Crypto"
   location         : "University of South Florida, Tampa, USA"
-  employer         :
+  employer         : "http://math.usf.edu/faculty/lkoelsch/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yJu5R8kAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "lukas (dot) koelsch (dot) math (at) gmail (dot) com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
