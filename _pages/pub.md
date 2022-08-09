@@ -7,196 +7,35 @@ redirect_from:
   - /publications.html
 ---
 
-## Locations of key files/directories
+You can find most of my articles on [Google Scholar](https://scholar.google.com/citations?user=yJu5R8kAAAAJ&hl=en&oi=ao) and [arXiv](https://arxiv.org/search/?query=lukas+k%C3%B6lsch&searchtype=all). 
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+List of Preprints and Publications
+=====
+\[11\] Bartoli, D., Kölsch, L., Micheli, G.: Differential biases, $c$-differential uniformity, and their relation to differential attacks. [Preprint](https://arxiv.org/abs/2208.03884)
 
-## Tips and hints
+\[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. [Preprint](https://arxiv.org/abs/2207.13497)
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+\[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2111.04197)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+\[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. [Preprint](https://arxiv.org/abs/2109.04923). Accepted for publication in *Transactions of the American Mathematical Society*
 
-## Markdown guide
+\[7\] Kölsch, L., Kriepke, B., Kyureghyan, G.M.: Image sets of perfectly nonlinear maps. *Designs, Codes, Cryptography* (2022). [Link](https://doi.org/10.1007/s10623-022-01094-4)
 
-### Header three
 
-#### Header four
+\[6\] Kölsch, L., Schüler, R.: Formal self-duality.  *Cryptogr. Commun.* 13, 815–836 (2021), [Link](https://doi.org/10.1007/s12095-021-00508-9).
 
-##### Header five
+\[5\] Kölsch, L.: On CCZ-equivalence of the inverse function,  *IEEE Transaction on Information Theory*, vol. 67, no. 7, pp. 4856-4862, July 2021, [Link](https://doi.org/10.1109/TIT.2021.3065068)
 
-###### Header six
+\[4\] Kölsch, L.: On the inverses of Kasami and Bracken-Leander exponents, *Designs, Codes, Cryptography* 88, 2597-2621 (2020), [Link](https://doi.org/10.1007/s10623-020-00804-0)
 
-## Blockquotes
+\[3\] Gölglu, F., Kölsch, L., Kyureghyan, G., Perrin, L.: On subspaces of Kloosterman zeros and permutations of the form L_1(x^{-1})+L_2(x), In: Bajard J.C., Topuzoglu A. (eds) *Arithmetic of Finite Fields. WAIFI 2020. Lecture Notes in Computer Science*, vol 12542. Springer, Cham. [Link](https://doi.org/10.1007/978-3-030-68869-1\_12)
 
-Single line blockquote:
+\[2\] Canteaut, A., Kölsch, L., Li, C., Li, C., Li, K., Qu, L., Wiemer, F.: Autocorrelations of Vectorial Boolean Functions. In: Longa P., Ràfols C. (eds) *Progress in Cryptology – LATINCRYPT 2021. LATINCRYPT 2021. Lecture Notes in Computer Science*, vol 12912. [Link](https://doi.org/10.1007/978-3-030-88238-9\_12)
+> merged article based on: Canteaut, A., Kölsch, L., Wiemer, F., Observations on the DLCT and Absolute Indicators, [Preprint](https://eprint.iacr.org/2019/848)
 
-> Quotes are cool.
 
-## Tables
+\[1\] Kölsch, L.: XOR-Counts and Lightweight Multiplication with Fixed Elements in Binary Finite Fields In: Ishai Y., Rijmen V. (eds) *Advances in Cryptology – EUROCRYPT 2019. EUROCRYPT 2019. Lecture Notes in Computer Science*, vol 11476. [Link](https://doi.org/10.1007/978-3-030-17653-2\_10)
 
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+My Dissertation
+====
+If you want (for some reason) have a look at my dissertation, it can be found [here](http://academicpages.github.io/files/main.pdf).
