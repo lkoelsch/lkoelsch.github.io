@@ -17,7 +17,7 @@ List of Preprints and Publications
 
 \[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2111.04197)
 
-\[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. [Preprint](https://arxiv.org/abs/2109.04923). Accepted for publication in *Transactions of the American Mathematical Society*
+\[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. [Preprint](https://arxiv.org/abs/2109.04923). In press, *Transactions of the American Mathematical Society*. https://doi.org/10.1090/tran/8785
 
 \[7\] Kölsch, L., Kriepke, B., Kyureghyan, G.M.: Image sets of perfectly nonlinear maps. *Designs, Codes, Cryptography* (2022). [Link](https://doi.org/10.1007/s10623-022-01094-4)
 
