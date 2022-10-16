@@ -1,6 +1,6 @@
 ---
 permalink: /talk/
-title: "Some Talks with slides (I lost the slides of most talks - sorry!)"
+title: "Some Talks with slides"
 author_profile: true
 redirect_from: 
   - /talk.html
