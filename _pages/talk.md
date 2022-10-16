@@ -5,10 +5,11 @@ author_profile: true
 redirect_from: 
   - /talk.html
 ---
+09/27/2022: Equivalences and symmetries in combinatorial structures: From Boolean functions to finite geometries. *Invited seminar talk at University of Rostock* [Slides](https://lkoelsch.github.io/files/slides_rostock.pdf)
 
-09/12/2022: Techniques for proving equivalences of Boolean functions. *7th international Workshop on Boolean functions and their applications* (Invited Talk)
+09/12/2022: Techniques for proving equivalences of Boolean functions. *7th international Workshop on Boolean functions and their applications* (Invited Talk) [Slides](https://lkoelsch.github.io/files/slides_bfa.pdf)
 
-08/29/2022: Bivariate semifields and their isotopies. *Finite Geometries 2022, Irsee*. (Invitation only conference)
+08/29/2022: Bivariate semifields and their isotopies. *Finite Geometries 2022, Irsee*. (Invitation only conference) [Slides](https://lkoelsch.github.io/files/slides_irsee.pdf)
 
 03/10/2022: Counting the number of non-isotopic semifields inside some known semifield families, *Workshop for Coding and Cryptography 2022, Rostock, Germany*. (Refereed Talk) [Slides](https://lkoelsch.github.io/files/slides_wcc.pdf)
 
