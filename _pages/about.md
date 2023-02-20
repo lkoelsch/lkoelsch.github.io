@@ -18,7 +18,7 @@ You can contact me via email: lukas (dot) koelsch (dot) math (at) gmail (dot) co
 
 CV
 ====
-[Download here](https://lkoelsch.github.io/files/cv.pdf). Last updated: August 2022.
+[Download here](https://lkoelsch.github.io/files/cv.pdf). Last updated: February 2023.
 
 News
 ======
