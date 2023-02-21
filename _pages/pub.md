@@ -11,13 +11,15 @@ You can find most of my articles on [Google Scholar](https://scholar.google.com/
 
 List of Preprints and Publications
 =====
+\[12\] Kölsch, L., Polujan, A.: Value distributions of perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2302.03121)
+
 \[11\] Bartoli, D., Kölsch, L., Micheli, G.: Differential biases, $c$-differential uniformity, and their relation to differential attacks. [Preprint](https://arxiv.org/abs/2208.03884)
 
 \[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. [Preprint](https://arxiv.org/abs/2207.13497)
 
 \[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2111.04197)
 
-\[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. [Preprint](https://arxiv.org/abs/2109.04923). In press, *Transactions of the American Mathematical Society*. https://doi.org/10.1090/tran/8785
+\[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. *Transactions of the American Mathematical Society*. https://doi.org/10.1090/tran/8785 [Preprint](https://arxiv.org/abs/2109.04923).
 
 \[7\] Kölsch, L., Kriepke, B., Kyureghyan, G.M.: Image sets of perfectly nonlinear maps. *Designs, Codes, Cryptography* (2022). [Link](https://doi.org/10.1007/s10623-022-01094-4)
 
