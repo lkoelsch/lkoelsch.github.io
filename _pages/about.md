@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of South Florida and the Center for Cryptographic Research in Tampa. Previously, I completed my PhD at the University of Rostock in Germany.
+I am Lukas Kölsch and currently a Math/Crypto Postdoc at the University of South Florida and the Center for Cryptographic Research in Tampa. Previously, I completed my PhD at the University of Rostock in Germany in 2020.
 
 I do math with applications to cryptography and coding theory. Recently, I have been working on semifields, rank-metric codes and non-linear Boolean functions like APN functions. Generally, I like to combine ideas from algebra, combinatorics and number theory to solve specific problems that are related to applications in coding theory or cryptography.
 
@@ -22,6 +22,8 @@ CV
 
 News
 ======
+(02-06-2023) Check out my new preprint on [Value distributions of perfect nonlinear functions](https://arxiv.org/abs/2302.03121) (joint work with Alexandr Polujan)
+
 (08-09-22) Check out my new preprint on [c-differential uniformity of Boolean functions and their relation to differential attacks on block ciphers](https://arxiv.org/abs/2208.03884) (joint work with Daniele Bartoli and Giacomo Micheli)
 
 (07-27-22) Check out my new preprint on [counting the Taniguchi semifields](https://arxiv.org/abs/2207.13497). Here, we give a new best lower bound on the total number of semifields of odd order. (joint work with Faruk Göloglu)
@@ -33,4 +35,4 @@ News
 
 Upcoming Talks and Events
 =====
-I will be at the Finite Geometries Conference in Irsee, Germany, in August 2022 and also at the Boolean Functions conference in Bergen, Norway, in September 2022. For details, see the [Talks section](https://lkoelsch.github.io/talk/).
+I will give a seminar talk on March 30th (online) at the math seminar at University College Dublin. I am also a Program Committe member of [BFA 2023](https://boolean.w.uib.no/bfa-2023/). For more details, see also the [Talks section](https://lkoelsch.github.io/talk/).
