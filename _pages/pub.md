@@ -15,7 +15,7 @@ List of Preprints and Publications
 
 \[11\] Bartoli, D., Kölsch, L., Micheli, G.: Differential biases, $c$-differential uniformity, and their relation to differential attacks. [Preprint](https://arxiv.org/abs/2208.03884)
 
-\[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. [Preprint](https://arxiv.org/abs/2207.13497)
+\[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. [Preprint](https://arxiv.org/abs/2207.13497). To appear in *Designs, Codes, Cryptography*.
 
 \[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2111.04197)
 
