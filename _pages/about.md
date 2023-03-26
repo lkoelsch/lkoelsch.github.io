@@ -38,4 +38,4 @@ Upcoming Talks and Events
 I will give a seminar talk on March 30th (online) at the math seminar at University College Dublin, and a talk on April 18th at the [Algebraic Coding and Cryptography
 on the East coast Seminar Series](https://sites.google.com/view/access-seminar).
 
-I am a Program Committe member of [BFA 2023](https://boolean.w.uib.no/bfa-2023/). For more details, see also the [Talks section](https://lkoelsch.github.io/talk/).
+I am a Program Committee member of [BFA 2023](https://boolean.w.uib.no/bfa-2023/). For more details, see also the [Talks section](https://lkoelsch.github.io/talk/).
