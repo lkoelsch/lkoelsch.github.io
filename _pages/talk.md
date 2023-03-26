@@ -10,17 +10,17 @@ redirect_from:
 on the East coast
 Seminar Series](https://sites.google.com/view/access-seminar)
 
-03/30/2023: Bivariate Semifields. *Invited seminar talk at Unviversity College Dublin, Ireland* 
+03/30/2023: Bivariate Semifields. *Invited seminar talk at University College Dublin, Ireland* 
 
-03/02/2023: Semifields, and their relations to cryptography. *Invited seminar talk at Unviversity of Alabama, Huntsville* [Slides](https://lkoelsch.github.io/files/slides-alabama.pdf)
+03/02/2023: Semifields, and their relations to cryptography. *Invited seminar talk at University of Alabama, Huntsville* [Slides](https://lkoelsch.github.io/files/slides-alabama.pdf)
 
-02/24/2023: Semifields, and their relations to coding theory and cryptography. *Invited seminar talk at Unviversity of South Florida* [Slides](https://lkoelsch.github.io/files/slides-usf.pdf)
+02/24/2023: Semifields, and their relations to coding theory and cryptography. *Invited seminar talk at University of South Florida* [Slides](https://lkoelsch.github.io/files/slides-usf.pdf)
 
 02/13/2023: Semifields, and their relations to cryptography. *Invited seminar talk at Florida Atlantic University* [Slides](https://lkoelsch.github.io/files/slides-boca.pdf)
 
 09/27/2022: Equivalences and symmetries in combinatorial structures: From Boolean functions to finite geometries. *Invited seminar talk at University of Rostock* [Slides](https://lkoelsch.github.io/files/slides-rostock.pdf)
 
-09/12/2022: Techniques for proving equivalences of Boolean functions. *7th international Workshop on Boolean functions and their applications* (Invited Talk) [Slides](https://lkoelsch.github.io/files/slides-bfa.pdf)
+09/12/2022: Techniques for proving equivalences of Boolean functions. *7th International Workshop on Boolean functions and their applications* (Invited Talk) [Slides](https://lkoelsch.github.io/files/slides-bfa.pdf)
 
 08/29/2022: Bivariate semifields and their isotopies. *Finite Geometries 2022, Irsee*. (Invitation only conference) [Slides](https://lkoelsch.github.io/files/slides-irsee.pdf)
 
