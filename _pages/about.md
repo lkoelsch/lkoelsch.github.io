@@ -38,4 +38,6 @@ Upcoming Talks and Events
 I will give a seminar talk on March 30th (online) at the math seminar at University College Dublin, and a talk on April 18th at the [Algebraic Coding and Cryptography
 on the East coast Seminar Series](https://sites.google.com/view/access-seminar).
 
+I will be at [Canadam 2023 in Winnipeg in June 2023](https://www.canadam.ca/index.html). I will give an invited talk in the minisymposium on Design Theory and Coding Theory.
+
 I am a Program Committee member of [BFA 2023](https://boolean.w.uib.no/bfa-2023/). For more details, see also the [Talks section](https://lkoelsch.github.io/talk/).
