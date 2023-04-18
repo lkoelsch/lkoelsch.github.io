@@ -6,11 +6,11 @@ redirect_from:
   - /talk.html
 ---
 
-04/18/2023: Bivariate Semifields. *Invited seminar talk at the* [Algebraic Coding and Cryptography
+04/18/2023: Rank-metric codes from semifields. *Invited seminar talk at the* [Algebraic Coding and Cryptography
 on the East coast
-Seminar Series](https://sites.google.com/view/access-seminar)
+Seminar Series](https://sites.google.com/view/access-seminar). [Slides](https://lkoelsch.github.io/files/slides_access.pdf)
 
-03/30/2023: Bivariate Semifields. *Invited seminar talk at University College Dublin, Ireland* 
+03/30/2023: Bivariate Semifields. *Invited seminar talk at University College Dublin, Ireland* [Slides](https://lkoelsch.github.io/files/slides_dublin.pdf)
 
 03/02/2023: Semifields, and their relations to cryptography. *Invited seminar talk at University of Alabama, Huntsville* [Slides](https://lkoelsch.github.io/files/slides-alabama.pdf)
 
