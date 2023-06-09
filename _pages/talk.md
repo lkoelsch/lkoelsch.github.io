@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /talk.html
 ---
+06/07/2023: Value distributions of perfect nonlinear functions. *Invited symposium talk at [CanaDAM 2023](https://www.canadam.ca/).*  [Slides](https://lkoelsch.github.io/files/slides-canadam.pdf)
 
 04/18/2023: Rank-metric codes from semifields. *Invited seminar talk at the* [Algebraic Coding and Cryptography
 on the East coast
