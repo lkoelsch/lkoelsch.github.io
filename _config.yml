@@ -62,14 +62,14 @@ yandex_site_verification :
 author:
   name             : "Lukas Kölsch"
   avatar           : "profile_real.jpg"
-  bio              : "Postdoc in Math/Crypto"
+  bio              : "Assistant Professor in Math/Crypto"
   location         : "University of South Florida"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yJu5R8kAAAAJ&hl=en&oi=ao"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://math.usf.edu/faculty/lkoelsch/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
