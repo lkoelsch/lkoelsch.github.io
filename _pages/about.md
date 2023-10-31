@@ -22,6 +22,8 @@ CV
 
 News
 ======
+(10-10-2023) My paper [Value distributions of perfect nonlinear functions](https://link.springer.com/article/10.1007/s00493-023-00067-y) was published in *Combinatorica*!
+
 (02-06-2023) Check out my new preprint on [Value distributions of perfect nonlinear functions](https://arxiv.org/abs/2302.03121) (joint work with Alexandr Polujan)
 
 (08-09-22) Check out my new preprint on [c-differential uniformity of Boolean functions and their relation to differential attacks on block ciphers](https://arxiv.org/abs/2208.03884) (joint work with Daniele Bartoli and Giacomo Micheli)
