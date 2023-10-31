@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lukas Kölsch and currently a tenure track Assistant Professor at the University of South Florida. I am holding a PhD at the University of Rostock in Germany in 2020.
+I am Lukas Kölsch and currently a tenure track Assistant Professor at the University of South Florida. I finished my PhD at the University of Rostock in Germany in 2020.
 
 I do math with applications to cryptography and coding theory. Recently, I have been working on semifields, rank-metric codes and non-linear Boolean functions like APN functions. Generally, I like to combine ideas from algebra, combinatorics and number theory to solve specific problems that are related to applications in coding theory or cryptography.
 
