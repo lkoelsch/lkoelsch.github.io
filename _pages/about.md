@@ -18,8 +18,8 @@ You can contact me via email: lukas (dot) koelsch (dot) math (at) gmail (dot) co
 
 CV
 ====
-[Download here](https://lkoelsch.github.io/files/cv.pdf). Last updated: October 2023.
-
+[Download here](https://lkoelsch.github.io/files/cv.pdf). Last updated: August 2025.
+<!---
 News
 ======
 (10-10-2023) My paper [Value distributions of perfect nonlinear functions](https://link.springer.com/article/10.1007/s00493-023-00067-y) was published in *Combinatorica*!
@@ -41,3 +41,4 @@ Upcoming Talks and Events
 I will be at [Canadam 2023 in Winnipeg in June 2023](https://www.canadam.ca/index.html). I will give an invited talk in the minisymposium on Design Theory and Coding Theory.
 
 I am a Program Committee member of [BFA 2023](https://boolean.w.uib.no/bfa-2023/). For more details, see also the [Talks section](https://lkoelsch.github.io/talk/).
+-->
