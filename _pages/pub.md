@@ -11,13 +11,30 @@ You can find most of my articles on [Google Scholar](https://scholar.google.com/
 
 List of Preprints and Publications
 =====
-\[12\] Kölsch, L., Polujan, A.: Value distributions of perfect nonlinear functions. *Combinatorica* (2023). [Link](https://link.springer.com/article/10.1007/s00493-023-00067-y)
+\[19\] Kölsch, L., Levinshteyn, A., Tenn, M.: The autotopism group of a family of commutative semifields. Preprint: [Link](https://arxiv.org/abs/2504.17057).
 
-\[11\] Bartoli, D., Kölsch, L., Micheli, G.: Differential biases, $c$-differential uniformity, and their relation to differential attacks. [Preprint](https://arxiv.org/abs/2208.03884)
+\[18\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. Accepted for publication in \textit{Combinatorial Theory}, Preprint: [Link](https://arxiv.org/abs/2111.04197).
 
-\[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. *Designs, Codes, Cryptography* (2023). https://doi.org/10.1007/s10623-023-01262-0 [Preprint](https://arxiv.org/abs/2207.13497). To appear in *Designs, Codes, Cryptography*.
+\[17\] Kölsch, L., Polujan, A. The combinatorial structure and value distributions of plateaued functions, Preprint: [Link](https://arxiv.org/abs/2410.00611).
 
-\[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. [Preprint](https://arxiv.org/abs/2111.04197)
+\[16\] Bartoli, D., Kölsch, L., Micheli, G.: Differential biases, *c*-differential uniformity, and their relation to differential attacks. In: Petkova-Nikova, S., Panario, D. (eds) Arithmetic of Finite Fields. WAIFI 2024. *Lecture Notes in Computer Science*, vol 15176. Springer, Cham (2025). [Link](https://doi.org/10.1007/978-3-031-81824-0_13) 
+
+\[15\] Kölsch, L., Polujan, A. A Study of APN Functions in Dimension 7 Using Antiderivatives, \emph{2024 IEEE International Symposium on Information Theory (ISIT)}, Athens, Greece, 2024, pp. 1613-1617, [Link](https://doi.org/10.1109/ISIT57864.2024.10619243).
+
+\[14\] Kölsch, L. A unifying construction of semifields of order $p^{2m}$. Preprint: [Link](https://arxiv.org/abs/2405.09068).
+
+\[13\] Kölsch, L., Kyureghyan, G. The classifications of o-monomials and of 2-to-1 binomials are equivalent. Des. Codes Cryptogr. (2024). [Link](https://doi.org/10.1007/s10623-024-01463-1)
+
+\[12\]Kölsch, L., Krompholz, L., Kyureghyan, G. Factorization and irreducibility of composed products. Des. Codes Cryptogr. (2024). [Link](https://doi.org/10.1007/s10623-024-01529-0)
+
+\[12\] Kölsch, L. On a recent extension of a family of biprojective APN functions. *Finite Fields and Their Applications*,
+99, (2024), [Link](https://doi.org/10.1016/j.ffa.2024.102494) 
+
+\[11\] Kölsch, L., Polujan, A.: Value distributions of perfect nonlinear functions. *Combinatorica* (2023). [Link](https://link.springer.com/article/10.1007/s00493-023-00067-y)
+
+\[10\] Göloglu, F., Kölsch, L.: Counting the number of non-isotopic Taniguchi semifields. *Designs, Codes, Cryptography* (2023). https://doi.org/10.1007/s10623-023-01262-0 [Preprint](https://arxiv.org/abs/2207.13497). *Designs, Codes, Cryptography* (2023). [Link](https://doi.org/10.1007/s10623-023-01262-0)
+
+\[9\] Göloglu, F., Kölsch, L.: Equivalences of biprojective almost perfect nonlinear functions. To appear in *Combinatorial Theory*. [Preprint](https://arxiv.org/abs/2111.04197)
 
 \[8\] Göloglu, F., Kölsch, L.: An exponential bound on the number of non-isotopic commutative semifields. *Transactions of the American Mathematical Society (2022)*. https://doi.org/10.1090/tran/8785 [Preprint](https://arxiv.org/abs/2109.04923).
 
