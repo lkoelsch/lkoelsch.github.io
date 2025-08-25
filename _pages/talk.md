@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /talk.html
 ---
-05/23/2025: Counting the number of non-isomorphic members in infinite families of combinatorial objects}. *CanaDAM 2025*, Ottawa, Canada. (Invited symposium talk). [Slides](https://lkoelsch.github.io/files/slides-canadam2.pdf)
+05/23/2025: Counting the number of non-isomorphic members in infinite families of combinatorial objects. *CanaDAM 2025*, Ottawa, Canada. (Invited symposium talk). [Slides](https://lkoelsch.github.io/files/slides-canadam2.pdf)
 
 03/05/2025: Semifields and their relations to finite geometry, coding theory, and cryptography}. Seminar talk, hosted by Maosheng Xiong at the Hong Kong University of Science and Technology. [Slides](https://lkoelsch.github.io/files/slides-hk.pdf)
 
